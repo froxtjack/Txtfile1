@@ -13,7 +13,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration - Replace with your values
-BOT_TOKEN = "8348691282:AAECsE1tTVn7QRzIOjBZsRtTIAvDr922ENY"
+BOT_TOKEN = "8348691282:AAECeReqHgMbJ2g_En-pRM-ZSoMGSiW2EHE"
 TARGET_GROUP_ID = -1003875102153  # Your private group ID (negative for groups)
 MONITORED_GROUP_ID = -1003794947014,-1002554500064  # Group to monitor for files
 ALLOWED_USERS = []  # Leave empty to allow all, or add user IDs
